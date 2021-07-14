@@ -1,0 +1,7 @@
+export const ADD = "ADD";
+export const REMOVE = "REMOVE";
+export const CHANGE_NAME_REQUEST = "CHANGE_NAME_REQUEST";
+export const CHANGE_NAME_SUCCESS = "CHANGE_NAME_SUCCESS";
+export const CHANGE_NAME_FAIL = "CHANGE_NAME_FAIL";
+export const CHANGE_PROFESSION = "CHANGE_PROFESSION";
+export const CLEAR_ALL = "REMOVE_ALL";
